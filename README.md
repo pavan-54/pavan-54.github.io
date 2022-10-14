@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bct.com.bd/sitepad-data/uploads/2020/09/BCT2.gif)](https://pavan-54.io)
+[![MasterHead](Banner.gif)](https://pavan-54.io)
 <h1 align="center">Hi 👋, I'm Vattikala Pavan Kalyan</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
